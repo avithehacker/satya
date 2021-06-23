@@ -1,38 +1,214 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
 <url>
-  <loc>https://satyaprakeshmalviya.in/</loc>
-  <lastmod>2021-04-02T09:59:55+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>https://satyaprakeshmalviya.in/</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>1.00</priority>
 </url>
 <url>
-  <loc>https://satyaprakeshmalviya.in/index.html</loc>
-  <lastmod>2021-04-02T09:59:55+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://satyaprakeshmalviya.in/index.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://satyaprakeshmalviya.in/blog.html</loc>
-  <lastmod>2021-04-02T09:59:54+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://satyaprakeshmalviya.in/blog.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://satyaprakeshmalviya.in/resume.html</loc>
-  <lastmod>2021-04-02T09:59:55+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://satyaprakeshmalviya.in/resume.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://satyaprakeshmalviya.in/contact.html</loc>
-  <lastmod>2021-04-02T09:59:54+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://satyaprakeshmalviya.in/contact.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 
-
-
+<url>
+<loc>https://satyaprakeshmalviya.in/balman-ki-soch.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://satyaprakeshmalviya.in/aatmavishwas.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://satyaprakeshmalviya.in/anathaalaya-ke-sapne.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://satyaprakeshmalviya.in/janta-road.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://satyaprakeshmalviya.in/safalta-ka-rahsya.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://satyaprakeshmalviya.in/dr-K-K-Agarwal.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://satyaprakeshmalviya.in/socrates-aur-aaina.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://satyaprakeshmalviya.in/maa.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://satyaprakeshmalviya.in/aatmavishwas-banam-dwiyaangta.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://satyaprakeshmalviya.in/karatavya-aur-bahaduri.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://satyaprakeshmalviya.in/jotiba-foole.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://satyaprakeshmalviya.in/blog2.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://satyaprakeshmalviya.in/jhopadi-ke-sapne.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.51</priority>
+</url>
+<url>
+<loc>https://satyaprakeshmalviya.in/rudolf-desiel.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.51</priority>
+</url>
+<url>
+<loc>https://satyaprakeshmalviya.in/savitribai-foole.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.51</priority>
+</url>
+<url>
+<loc>https://satyaprakeshmalviya.in/chintan.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.51</priority>
+</url>
+<url>
+<loc>https://satyaprakeshmalviya.in/saint-siromani-ravidas.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.51</priority>
+</url>
+<url>
+<loc>https://satyaprakeshmalviya.in/karatavya.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.51</priority>
+</url>
+<url>
+<loc>https://satyaprakeshmalviya.in/samaya.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.51</priority>
+</url>
+<url>
+<loc>https://satyaprakeshmalviya.in/lakshya.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.51</priority>
+</url>
+<url>
+<loc>https://satyaprakeshmalviya.in/vishawaas.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.51</priority>
+</url>
+<url>
+<loc>https://satyaprakeshmalviya.in/netaji-subhashchandra-bose.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.51</priority>
+</url>
+<url>
+<loc>https://satyaprakeshmalviya.in/guru-govind-singh.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.51</priority>
+</url>
+<url>
+<loc>https://satyaprakeshmalviya.in/guru-nanak-devji-ki-seekh.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.51</priority>
+</url>
+<url>
+<loc>https://satyaprakeshmalviya.in/man-evam-givan.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.51</priority>
+</url>
+<url>
+<loc>https://satyaprakeshmalviya.in/aatmavishwas-karma.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.51</priority>
+</url>
+<url>
+<loc>https://satyaprakeshmalviya.in/blog1.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.51</priority>
+</url>
+<url>
+<loc>https://satyaprakeshmalviya.in/makarsankranti.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.41</priority>
+</url>
+<url>
+<loc>https://satyaprakeshmalviya.in/swami-vivekanand-yuvaao-ke-aadhar-stambh.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.41</priority>
+</url>
+<url>
+<loc>https://satyaprakeshmalviya.in/shabd.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.41</priority>
+</url>
+<url>
+<loc>https://satyaprakeshmalviya.in/guruji-ki-seekh.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.41</priority>
+</url>
+<url>
+<loc>https://satyaprakeshmalviya.in/drishti-heenta-luei-braile.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.41</priority>
+</url>
+<url>
+<loc>https://satyaprakeshmalviya.in/samaya-samaychakra-ki-prakriti.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.41</priority>
+</url>
+<url>
+<loc>https://satyaprakeshmalviya.in/sakaratmak-soch-ka-manav.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.41</priority>
+</url>
+<url>
+<loc>https://satyaprakeshmalviya.in/mata-ki-chah.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.41</priority>
+</url>
+<url>
+<loc>https://satyaprakeshmalviya.in/ikshaskakti-ka-mahatva.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.41</priority>
+</url>
+<url>
+<loc>https://satyaprakeshmalviya.in/Shabd-rahasya.html</loc>
+<lastmod>2021-06-23T16:18:04+00:00</lastmod>
+<priority>0.41</priority>
+</url>
 </urlset>
